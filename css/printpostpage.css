@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+.print-button {
+	background-image: url('../img/print.png');
+	cursor: pointer;
+	display:block;
+	width: 32px;
+	height: 32px;
+}
+
+.print-button {
+	background-image: url('../img/print.png');
+	display:block;
+	width: 32px;
+	height: 32px;
+}
+
